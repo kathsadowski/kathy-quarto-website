@@ -5,4 +5,4 @@ title: "About"
 About this site
 
 
-This is my bio.
+This is my bio. this is the branch edit where I should add my email.
